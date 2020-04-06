@@ -1,0 +1,32 @@
+body{
+    background-image: url('f.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    
+}
+h1{
+    color: lime;
+    background: deepskyblue;
+    padding: 20px;
+    margin: 50px;
+    text-align: center;
+    text-shadow: 1px 1px 2px black;
+    font-family: cursive;
+    border-radius: 10px;
+    box-shadow: 8px 8px 5px darkgray;
+    animation: nafish;
+}
+h2{
+    color: black;
+    width: 400px;
+    text-align: center;
+    background: lime;
+    font-size: 30px;
+    padding: 20px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px pink;
+    text-shadow: 1px 1px 1px blue;
+}
