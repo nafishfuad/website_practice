@@ -16,7 +16,7 @@ h1{
     box-shadow: 8px 8px 5px darkgray;
     animation: nafish;
 }
-h2{
+.ami {
     color: black;
     width: 400px;
     text-align: center;
