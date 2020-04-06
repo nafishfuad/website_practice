@@ -23,7 +23,7 @@ h1{
     background: lime;
     font-size: 30px;
     padding: 20px;
-    margin: 20px;
+    margin: auto;
     border: 2px solid black;
     border-radius: 10px;
     box-shadow: 10px 10px 10px pink;
