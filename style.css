@@ -1,7 +1,8 @@
 body{
     background-image: url('f.jpg');
     background-repeat: no-repeat;
-    background-size: cover; 
+    background-size: cover;
+    background-color: lime;
 }
 h1{
     color: lime;
